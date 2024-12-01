@@ -2,9 +2,13 @@
 <img src=https://github.com/user-attachments/assets/a89f81d1-b616-4fb0-b3e9-36eb48459d32>
 </p>
 
+![Без названия19_20241201122905](https://github.com/user-attachments/assets/99efd53f-eda6-4830-8d15-0eed4fd12fab)
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Zen+Old+Mincho&duration=5000&pause=3000&color=521818&center=true&width=439&lines=✞+𝓣𝓞+𝓗𝓔𝓛𝓛+𝓐𝓝𝓓+𝓑𝓐𝓒𝓚+✞"./>
 </p>
+
+![Без названия19_20241201122905](https://github.com/user-attachments/assets/99efd53f-eda6-4830-8d15-0eed4fd12fab)
 
 <p align="center">
      <br> ${\textsf{\color{#e49595}　⟡Call me Rin. Or use my current pony's name. You are one to decide.⟡}}$ 
@@ -34,3 +38,4 @@
  <br>
   </p>
 
+![Без названия19_20241201122905](https://github.com/user-attachments/assets/99efd53f-eda6-4830-8d15-0eed4fd12fab)
