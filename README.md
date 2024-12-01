@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-     <br> ${\textsf{\color{#e49595}　⟡Call me Rin. Or use my curent pony's name. You are one to decide.⟡}}$ 
+     <br> ${\textsf{\color{#e49595}　⟡Call me Rin. Or use my current pony's name. You are one to decide.⟡}}$ 
  <br>
   </p>
   <p align="center">
