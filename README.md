@@ -22,7 +22,15 @@
      <br> ${\textsf{\color{#e49595}  ⟡Ships are ✓, as well as RP. But ask me if I'm up to it first.⟡ }}$ 
  <br>
   </p>
-   <p align="center">
+
+ 
+ <p align="center">
      <br> ${\textsf{\color{#e49595}  ⟡.ᐟ I'm a legal adult, and over 18y.o. Please consider this before int.⟡ }}$ 
  <br>
   </p>
+
+ <p align="right">
+     <br> ${\textsf{\color{#e49595}  .ᐟ art by ekajrdmaG on X}}$ 
+ <br>
+  </p>
+
