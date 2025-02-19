@@ -27,7 +27,7 @@
  <br>
   </p>
    <p align="center">
-     <br> ${\textsf{\color{#d7d7d7}　⟡If I'm not answering/reacting to you that means I'm offtab working or doing other thing.⟡}}$ 
+     <br> ${\textsf{\color{#d7d7d7}　⟡If I'm not answering/reacting to you that means I'm offtab working or doing other things.⟡}}$ 
  <br>
   </p>
     <p align="center">
@@ -39,7 +39,7 @@
  <br>
   </p>
    <p align="center">
-     <br> ${\textsf{\color{#d7d7d7}  ⟡Ships are ✓, as well as RP. But ask me if I'm up to it first.⟡ }}$ 
+     <br> ${\textsf{\color{#d7d7d7}  ⟡No RP. Ships are ✓. But ask me if I'm up to it first.⟡ }}$ 
  <br>
   </p>
 
