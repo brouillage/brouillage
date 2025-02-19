@@ -23,7 +23,7 @@
  <br>
   </p>
    <p align="center">
-     <br> ${\textsf{\color{#d7d7d7}　⟡C+H is in my nametag for a reason. I'm always up for some cuddles, don't be shy.⟡}}$ 
+     <br> ${\textsf{\color{#d7d7d7}　⟡Usually I'm C+H, so you're welcome to sit with me. But please don't bother me if I'm sitting with someone already.⟡}}$ 
  <br>
   </p>
    <p align="center">
