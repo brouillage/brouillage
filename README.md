@@ -11,8 +11,9 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Zen+Old+Mincho&duration=5000&pause=3000&color=582a68&center=true&width=439&lines=✞+𝓡𝓾𝓶𝓸𝓻𝓼!+𝓡𝓾𝓶𝓸𝓻𝓼!+𝓡𝓾𝓶𝓸𝓻𝓼!+✞"./>
+<img src="https://readme-typing-svg.demolab.com?font=Exo+2&duration=5000&pause=3000&color=582a68&center=true&width=439&lines=Rummors!+Rummors!+Rummors!"./>
 </p>
+
 
 <p align="center">
 <img src=https://github.com/user-attachments/assets/5ab87487-459c-4076-a164-87017a6676d8>
