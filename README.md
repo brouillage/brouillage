@@ -20,31 +20,31 @@
 </p>
 
 <p align="center">
-     <br> ${\textsf{\color{#582a68}　⟡Call me Rin. Or use my current pony's name. You are one to decide.⟡}}$ 
+     <br> ${\textsf{　⟡Call me Rin. Or use my current pony's name. You are one to decide.⟡}}$ 
  <br>
   </p>
  <p align="center">
-     <br> ${\textsf{\color{#582a68}　⟡Please whisper to me if you want to talk. I might be not very talkative at first.⟡}}$ 
+     <br> ${\textsf{　⟡Please whisper to me if you want to talk. I might be not very talkative at first.⟡}}$ 
  <br>
   </p>
    <p align="center">
-     <br> ${\textsf{\color{#582a68}　⟡Usually I'm C+H, so you're welcome to sit with me. But please don't bother me if I'm not alone.⟡}}$ 
+     <br> ${\textsf{　⟡Usually I'm C+H, so you're welcome to sit with me. But please don't bother me if I'm not alone.⟡}}$ 
  <br>
   </p>
    <p align="center">
-     <br> ${\textsf{\color{#582a68}　⟡If I'm not answering/reacting to you that means I'm offtab working or doing other things.⟡}}$ 
+     <br> ${\textsf{　⟡If I'm not answering/reacting to you that means I'm offtab working or doing other things.⟡}}$ 
  <br>
   </p>
     <p align="center">
-     <br> ${\textsf{\color{#582a68}  ⟡I'm not accepting random friend requests. At least int with me in some way first.⟡ }}$ 
+     <br> ${\textsf{  ⟡I'm not accepting random friend requests. At least int with me in some way first.⟡ }}$ 
  <br>
   </p>
  <p align="center">
-     <br> ${\textsf{\color{#582a68}  ⟡.ᐟ I'm a legal adult, and over 18y.o. Please consider this before int.⟡ }}$ 
+     <br> ${\textsf{  ⟡.ᐟ I'm a legal adult, and over 18y.o. Please consider this before int.⟡ }}$ 
  <br>
   </p>
    <p align="center">
-     <br> ${\textsf{\color{#582a68}  ⟡No RP. Ships are ✓. But ask me if I'm up to it first.⟡ }}$ 
+     <br> ${\textsf{  ⟡No RP. Ships are ✓. But ask me if I'm up to it first.⟡ }}$ 
  <br>
   </p>
 
