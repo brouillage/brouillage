@@ -3,8 +3,10 @@
 </p>
 
 <p align="center">
-<img src=https://github.com/user-attachments/assets/275dce22-087a-41e5-b1bf-f1995095a9e9>
+<img width="2048" height="1393" alt="image" src="https://github.com/user-attachments/assets/d2534458-6bcc-44ba-9b96-ddea406bd7aa" />
 </p>
+
+
 
 <p align="center">
 <img src=https://github.com/user-attachments/assets/5ab87487-459c-4076-a164-87017a6676d8>
