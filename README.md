@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Love+Light&size=35&duration=5000&pause=3000&color=490a12&center=true&width=439&lines=There+are+no+friends+in+Hell."./>
+<img src="https://readme-typing-svg.demolab.com?font=Love+Light&size=35&duration=5000&pause=3000&color=490a12&center=true&width=439&lines=There+are+no+friends+in+Hell,+Vox."./>
 </p>
 
 <p align="center">
