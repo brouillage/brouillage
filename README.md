@@ -43,7 +43,7 @@
  <br>
   </p>
    <p align="center">
-     <br> ${\textsf{\color{#6D0000}  ⟡No RP. For information on ships check my strawpage. I block freely.⟡ }}$ 
+     <br> ${\textsf{\color{#6D0000}  ⟡No RP. For info on ships check my strawpage. I block freely.⟡ }}$ 
  <br>
   </p>
 
