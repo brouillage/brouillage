@@ -39,7 +39,7 @@
  <br>
   </p>
  <p align="center">
-     <br> ${\textsf{\color{#A01B1B}  ⟡.ᐟ I'm a legal adult, and over 18y.o. Please consider this before int.⟡ }}$ 
+     <br> ${\textsf{\color{#A01B1B}  ⟡.ᐟ I'm very much an adult, and over 18y.o. Please consider this before int.⟡ }}$ 
  <br>
   </p>
    <p align="center">
