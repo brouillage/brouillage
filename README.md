@@ -27,11 +27,11 @@
  <br>
   </p>
    <p align="center">
-     <br> ${\textsf{\color{#4c215b}　⟡Usually I'm C+H, so you're welcome to sit with me. But please don't bother me if I'm not alone.⟡}}$ 
+     <br> ${\textsf{\color{#4c215b}　⟡If I'm not answering/reacting to you that means I'm offtab working or doing other things.⟡}}$ 
  <br>
   </p>
    <p align="center">
-     <br> ${\textsf{\color{#582a68}　⟡If I'm not answering/reacting to you that means I'm offtab working or doing other things.⟡}}$ 
+     <br> ${\textsf{\color{#582a68}　⟡Usually I'm C+H, so you're welcome to sit with me. But please don't bother me if I'm not alone.⟡}}$ 
  <br>
   </p>
     <p align="center">
