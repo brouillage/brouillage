@@ -1,65 +1,61 @@
 <p align="center">
-<img src=https://github.com/user-attachments/assets/bd91d274-01b3-4d70-adf1-8ceefe4d8725>
+<img src=https://github.com/user-attachments/assets/a424e0c4-1a30-41a6-b9b9-e80c4ae99404>
 </p>
 
 <p align="center">
-<img src=https://github.com/user-attachments/assets/8122c5bb-3eb6-4b1b-8679-7a12c373cf79>
+<img src=https://github.com/user-attachments/assets/3e26aace-4842-4fe0-94d7-649412122dc1>
 </p>
 
 <p align="center">
-<img src=https://github.com/user-attachments/assets/99efd53f-eda6-4830-8d15-0eed4fd12fab>
+<img src=https://github.com/user-attachments/assets/5ab87487-459c-4076-a164-87017a6676d8>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Love+Light&size=35&duration=5000&pause=3000&color=490a12&center=true&width=439&lines=There+are+no+friends+in+Hell,+Vox."./>
+<img src="https://readme-typing-svg.demolab.com?font=Love+Light&size=35&duration=5000&pause=3000&color=2e0d3b&center=true&width=439&lines=Rummors!+Rummors!+Rummors!"./>
 </p>
 
 <p align="center">
-<img src=https://github.com/user-attachments/assets/99efd53f-eda6-4830-8d15-0eed4fd12fab>
+<img src=https://github.com/user-attachments/assets/5ab87487-459c-4076-a164-87017a6676d8>
 </p>
 
 <p align="center">
-     <br> ${\textsf{\color{#6D0000}　⟡Call me Rin. Or use my current pony's name. You are one to decide.⟡}}$ 
+     <br> ${\textsf{\color{#3a1348}　⟡Call me Rin. Or use my current pony's name. You are one to decide.⟡}}$ 
  <br>
   </p>
  <p align="center">
-     <br> ${\textsf{\color{#A01B1B}　⟡Please whisper to me if you want to talk. I might be not very talkative at first.⟡}}$ 
+     <br> ${\textsf{\color{#40194f}　⟡Please whisper to me if you want to talk. I might be not very talkative at first.⟡}}$ 
  <br>
   </p>
    <p align="center">
-     <br> ${\textsf{\color{#B64949}　⟡Usually I'm C+H, so you're welcome to sit with me. But please dni if I'm not alone.⟡}}$ 
+     <br> ${\textsf{\color{#4c215b}　⟡Usually I'm C+H, so you're welcome to sit with me. But please don't bother me if I'm not alone.⟡}}$ 
  <br>
   </p>
    <p align="center">
-     <br> ${\textsf{\color{#B66D6D}　⟡If I'm not answering/reacting to you that means I'm offtab working or doing other things.⟡}}$ 
+     <br> ${\textsf{\color{#582a68}　⟡If I'm not answering/reacting to you that means I'm offtab working or doing other things.⟡}}$ 
  <br>
   </p>
     <p align="center">
-     <br> ${\textsf{\color{#B64949}  ⟡I'm not accepting random friend requests. At least int with me in some way first.⟡ }}$ 
+     <br> ${\textsf{\color{#4c215b}  ⟡I'm not accepting random friend requests. At least int with me in some way first.⟡ }}$ 
  <br>
   </p>
  <p align="center">
-     <br> ${\textsf{\color{#A01B1B}  ⟡.ᐟ I'm very much an adult, and over 18y.o. Please consider this before int.⟡ }}$ 
+     <br> ${\textsf{\color{#40194f}  ⟡.ᐟ I'm very much an adult, and over 18y.o. Please consider this before int.⟡ }}$ 
  <br>
   </p>
    <p align="center">
-     <br> ${\textsf{\color{#6D0000}  ⟡No RP. For info on ships check my strawpage. I block freely.⟡ }}$ 
- <br>
-  </p>
-
- <p align="right">
-     <br> ${\textsf{\color{#000000}  .ᐟ art by ekajrdmaG on X}}$ 
+     <br> ${\textsf{\color{#3a1348}  ⟡No RP. Ships are ✓. But ask me if I'm up to it first.⟡ }}$ 
  <br>
   </p>
 
 <p align="center">
-<img src=https://github.com/user-attachments/assets/99efd53f-eda6-4830-8d15-0eed4fd12fab>
+<img src=https://github.com/user-attachments/assets/5ab87487-459c-4076-a164-87017a6676d8>
 </p>
 
 <p align="center">
-<img src=https://github.com/user-attachments/assets/1f956de5-1fc1-4ef7-8b2f-5ac92dc60305>
+<img src=https://github.com/user-attachments/assets/a545ee86-5e3e-4efd-9152-1ca40a92a23c>
 </p>
 
 <p align="right"> 
- <img src="https://komarev.com/ghpvc/?username=brouillage&color=781111&style=plastic&label=♱+I+see+you+;>+♱"/>
+ <img src="https://komarev.com/ghpvc/?username=brouillage&color=582a68&style=plastic&label=♱+I+see+you+;>+♱"/>
 <p align="center">
+
