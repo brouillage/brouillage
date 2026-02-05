@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Love+Light&size=35&duration=5000&pause=3000&color=898988&center=true&width=439&lines=Rummors!+Rummors!+Rummors!"./>
+<img src="https://readme-typing-svg.demolab.com?font=Love+Light&size=35&duration=5000&pause=3000&color=898988&center=true&width=439&lines=Are+you+planning+my+death+again?"./>
 </p>
 
 <p align="center">
